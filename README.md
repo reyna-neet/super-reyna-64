@@ -1,7 +1,5 @@
 # website-2
 
-more testing adding this line to test commits
-
 ## Build Setup
 
 ```bash
