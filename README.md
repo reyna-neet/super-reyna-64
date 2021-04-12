@@ -1,6 +1,6 @@
 # super-reyna-64
 
-> A Vue.js project
+> A 3D model of my face with manipulable features, inspired by the menu from Super Mario 64
 
 ## Build Setup
 
